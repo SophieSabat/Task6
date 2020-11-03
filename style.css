@@ -1,0 +1,12 @@
+div {
+    border: 1px solid cadetblue;
+    padding: 5px;
+    width: max-content;
+    margin: 5px;
+}
+h1 {
+    background: burlywood;
+    padding: 5px;
+    width: max-content;
+    margin: 5px;
+}
